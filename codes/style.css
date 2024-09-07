@@ -1,0 +1,23 @@
+/* justify-content alinha na propria linha (horizontal)
+    align-items alinha na vertical
+    flex-direction organiza se os items ficam na mesma ordem ou invertido. 
+    Eles podem ser em row(linha) ou columns(colunas)
+*/
+
+header{
+    text-align: center;
+}
+
+body{
+    background-image: url('/imagens/background image.jpg')
+}
+
+main{
+    display: flex;
+    align-content: center;
+}
+
+footer{
+    text-align: center;
+    
+}
